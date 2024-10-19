@@ -499,4 +499,5 @@ void outputMenu()
     cout << "6. Extract coding frames" << endl;
     cout << "7. Exit" << endl;
     cout << "Please enter your choice (1 - 7):" << endl;
+    cout << "New" << endl;
 }
