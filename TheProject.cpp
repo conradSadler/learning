@@ -488,7 +488,7 @@ void getCodingFrames(string strand)
     }
 }
 
-void outputMenu()
+void outputMenu() // output menu
 {
     cout << "--- DNA Analysis Menu ---" << endl;
     cout << "1. Calculate the similarity between two sequences of the same length" << endl;
