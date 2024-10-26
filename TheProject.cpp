@@ -226,7 +226,7 @@ int main()
                 cout << "Unknown error" << endl;
         }
     }
-    return 0;
+    return 1;
 }
 
 bool isValidBase(char base)
